@@ -1,1 +1,1 @@
-# coll-css-loader
+# Cool CSS Loader
